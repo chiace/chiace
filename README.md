@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=750&lines=UX%2FUI+Designer;Interaction+Designer;Designing+AI-powered+experiences;Accessibility+%26+inclusive+design;From+research+to+0%E2%86%921+products"
-    alt="Typing SVG"
-  />
+
 </p>
 
 <p align="center">
@@ -16,16 +13,6 @@
   <img alt="Focus" src="https://img.shields.io/badge/0%E2%86%921%20products-FBBF24?style=flat&labelColor=111827" />
   <img alt="AI UX" src="https://img.shields.io/badge/AI%20UX-F59E0B?style=flat&labelColor=111827" />
   <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-FDE047?style=flat&labelColor=111827" />
-</p>
-
-<p align="center">
-  <img src="./assets/sky.gif" alt="Sky animation" width="260" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chiaracerretti/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.chiace.me/">Website</a>
 </p>
 
 <br />
