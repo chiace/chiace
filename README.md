@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <img alt="Location" src="https://img.shields.io/badge/Sydney-AU-2D7FF9?style=flat&labelColor=0B1220" />
-  <img alt="Focus" src="https://img.shields.io/badge/0%E2%86%921%20products-7C3AED?style=flat&labelColor=0B1220" />
-  <img alt="AI UX" src="https://img.shields.io/badge/AI%20UX-FF2D55?style=flat&labelColor=0B1220" />
-  <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-22C55E?style=flat&labelColor=0B1220" />
+  <img alt="Location" src="https://img.shields.io/badge/Sydney-AU-FACC15?style=flat&labelColor=111827" />
+  <img alt="Focus" src="https://img.shields.io/badge/0%E2%86%921%20products-FBBF24?style=flat&labelColor=111827" />
+  <img alt="AI UX" src="https://img.shields.io/badge/AI%20UX-F59E0B?style=flat&labelColor=111827" />
+  <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-FDE047?style=flat&labelColor=111827" />
 </p>
 
 <p align="center">
