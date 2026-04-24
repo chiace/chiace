@@ -24,7 +24,7 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 - **Team player**: collaborative, clear, and kind. I love working with cross-functional teams
 - **Community**: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
 
-## Career snapshot (recruiter-friendly)
+## Career snapshot
 
 <table>
   <tr>
