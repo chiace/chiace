@@ -18,20 +18,44 @@
   <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-22C55E?style=flat&labelColor=0B1220" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/chiaracerretti/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.chiace.me/">Website</a>
+</p>
+
 <br />
 
 ## About me
 
-End-to-end UX/UI designer shipping 0→1 products (AI, accessibility, education, complex systems).
+End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, and cultural education.
 
-<p>
-  <b>Core</b>: UX research · prototyping · design systems · accessibility (WCAG) · UX for AI<br />
-  <b>Tools</b>: Figma/FigJam · Miro · Notion · Jira · ProtoPie · Framer · Adobe CC · GitHub · WordPress<br />
-  <b>Community</b>: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
-</p>
+- **I do**: 0→1 product design (research → strategy → UI)
+- **I’m strong in**: prototyping · design systems · accessibility (WCAG) · UX for AI
+- **Community**: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
+
+## Skills
+
+- **UX research**: interviews & synthesis · usability testing (mod/unmod) · workshops · ISO 9241-210 aligned practice
+- **UX methods**: IA · journey maps · service flows · concept validation · evaluation frameworks
+- **UI / product design**: wireframes → hi-fi prototypes · responsive UI · design systems · handoff specs
+- **Accessibility**: inclusive reviews · WCAG-informed design · accessibility-first thinking
+- **AI + emerging tech**: human–AI interaction · AI-assisted ideation/evaluation · prompt/prototype experiments
+- **Prototyping**: AR/interactive · hardware/experience prototyping (as needed)
+- **Frontend (basic)**: HTML/CSS · WordPress · basic JavaScript · React basics
+- **Data viz (basic)**: RAWGraphs
+
+## Tools
+
+- **Design**: Figma · FigJam · Adobe CC · Framer · ProtoPie
+- **Collaboration**: Miro · Notion · Google Workspace · Jira · Trello
+- **Build / prototype**: Unity 3D · Rhino · Arduino (as needed)
+- **API / docs**: Swagger
+- **Handoff**: GitHub · WordPress · HTML · CSS
+- **AI prototyping**: ChatGPT · Cursor · Claude · GitHub Copilot
 
 ## What I'm working on
 
-- AI-powered & accessible product experiences
+- AI-powered, accessible product experiences
 - Scalable UX/UI systems for complex platforms
-- UX experiments, prototypes, and documentation
+- Small UX experiments & prototypes on GitHub
