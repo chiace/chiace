@@ -26,6 +26,23 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 - **Team player**: collaborative, clear, and kind — I love working with cross-functional teams
 - **Community**: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
 
+## Career snapshot (recruiter-friendly)
+
+<table>
+  <tr>
+    <th align="left">Scope</th>
+    <th align="left">Focus areas</th>
+    <th align="left">Strengths</th>
+    <th align="left">Community</th>
+  </tr>
+  <tr>
+    <td>End-to-end UX/UI · 0→1 product design</td>
+    <td>AI · EdTech · Robotics · Accessibility · Cultural education</td>
+    <td>Prototyping · Design systems · WCAG · UX for AI</td>
+    <td>IxDF Sydney Local Leader · W3C Invited Expert (a11y)</td>
+  </tr>
+</table>
+
 ## My approach to the project
 
 <table align="center">
@@ -55,23 +72,65 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 
 ## Skills
 
-- **UX research**: interviews & synthesis · usability testing (mod/unmod) · workshops · ISO 9241-210 aligned practice
-- **UX methods**: IA · journey maps · service flows · concept validation · evaluation frameworks
-- **UI / product design**: wireframes → hi-fi prototypes · responsive UI · design systems · handoff specs
-- **Accessibility**: inclusive reviews · WCAG-informed design · accessibility-first thinking
-- **AI + emerging tech**: human–AI interaction · AI-assisted ideation/evaluation · prompt/prototype experiments
-- **Prototyping**: AR/interactive · hardware/experience prototyping (as needed)
-- **Frontend (basic)**: HTML/CSS · WordPress · basic JavaScript · React basics
-- **Data viz (basic)**: RAWGraphs
+<table>
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">Details</th>
+  </tr>
+  <tr>
+    <td><b>UX research</b></td>
+    <td>Interviews &amp; synthesis · Usability testing (mod/unmod) · Workshops · ISO 9241-210 aligned practice</td>
+  </tr>
+  <tr>
+    <td><b>UX methods</b></td>
+    <td>IA · Journey maps · Service flows · Concept validation · Evaluation frameworks</td>
+  </tr>
+  <tr>
+    <td><b>UI / product design</b></td>
+    <td>Wireframes → hi-fi prototypes · Responsive UI · Design systems · Handoff specs</td>
+  </tr>
+  <tr>
+    <td><b>Accessibility</b></td>
+    <td>Inclusive reviews · WCAG-informed design · Accessibility-first thinking</td>
+  </tr>
+  <tr>
+    <td><b>AI + emerging tech</b></td>
+    <td>Human–AI interaction · AI-assisted ideation/evaluation · Prompt/prototype experiments</td>
+  </tr>
+  <tr>
+    <td><b>Prototyping</b></td>
+    <td>AR/interactive · Hardware/experience prototyping (as needed)</td>
+  </tr>
+  <tr>
+    <td><b>Frontend (basic)</b></td>
+    <td>HTML/CSS · WordPress · Basic JavaScript · React basics</td>
+  </tr>
+  <tr>
+    <td><b>Data viz (basic)</b></td>
+    <td>RAWGraphs</td>
+  </tr>
+</table>
 
 ## Tools
 
-- **Design**: Figma · FigJam · Adobe CC · Framer · ProtoPie
-- **Collaboration**: Miro · Notion · Google Workspace · Jira · Trello
-- **Build / prototype**: Unity 3D · Rhino · Arduino (as needed)
-- **API / docs**: Swagger
-- **Handoff**: GitHub · WordPress · HTML · CSS
-- **AI prototyping**: ChatGPT · Cursor · Claude · GitHub Copilot
+<table>
+  <tr>
+    <th align="left">Design</th>
+    <th align="left">Collaboration</th>
+    <th align="left">Build / prototype</th>
+    <th align="left">API / docs</th>
+    <th align="left">Handoff</th>
+    <th align="left">AI prototyping</th>
+  </tr>
+  <tr>
+    <td>Figma · FigJam · Adobe CC · Framer · ProtoPie</td>
+    <td>Miro · Notion · Google Workspace · Jira · Trello</td>
+    <td>Unity 3D · Rhino · Arduino (as needed)</td>
+    <td>Swagger</td>
+    <td>GitHub · WordPress · HTML · CSS</td>
+    <td>ChatGPT · Cursor · Claude · GitHub Copilot</td>
+  </tr>
+</table>
 
 ## What I'm working on
 
