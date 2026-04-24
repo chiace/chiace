@@ -36,27 +36,6 @@ End-to-end UX/UI designer shipping 0→1 products (AI, accessibility, education,
   <b>Community</b>: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
 </p>
 
-## Featured work
-
-<p>
-  A few repos where I ship and experiment.
-</p>
-
-<p align="center">
-  <a href="https://github.com/chiace/st-au">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiace&repo=st-au" alt="st-au" />
-  </a>
-  <a href="https://github.com/chiace/msb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiace&repo=msb" alt="msb" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chiace/aboriginal-academy-assets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiace&repo=aboriginal-academy-assets" alt="aboriginal-academy-assets" />
-  </a>
-</p>
-
 ## What I'm working on
 
 - AI-powered & accessible product experiences
