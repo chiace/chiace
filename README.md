@@ -1,11 +1,7 @@
-<h1 align="center">Hello!  Nice to meet you, I'm Chiara 👋</h1>
+<h1 align="center">Hello, I'm Chiara 👋</h1>
 
 <p align="center">
   <b>UX/UI Designer</b> · Interaction Designer · AI Product Designer
-</p>
-
-<p align="center">
-
 </p>
 
 <p align="center">
@@ -17,29 +13,12 @@
 
 ## About me
 
-End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, and cultural education.
+UX/UI designer working across AI, EdTech, robotics, accessibility, and cultural education.
 
 - **I do**: 0→1 product design (research → strategy → UI)
 - **I’m strong in**: prototyping · design systems · accessibility (WCAG) · UX for AI
 - **Team player**: collaborative, clear, and kind. I love working with cross-functional teams
 - **Community**: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
-
-## Career snapshot
-
-<table>
-  <tr>
-    <th align="left">Scope</th>
-    <th align="left">Focus areas</th>
-    <th align="left">Strengths</th>
-    <th align="left">Community</th>
-  </tr>
-  <tr>
-    <td>End-to-end UX/UI · 0→1 product design</td>
-    <td>AI · EdTech · Robotics · Accessibility · Cultural education</td>
-    <td>Prototyping · Design systems · WCAG · UX for AI</td>
-    <td>IxDF Sydney Local Leader · W3C Invited Expert (a11y)</td>
-  </tr>
-</table>
 
 ## Background
 
