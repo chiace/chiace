@@ -47,7 +47,7 @@ International experience across Europe, Asia, Australia, the Americas, and a cul
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="./assets/card-teamplayer.png" width="170" alt="Team player" />
+       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Nuc2puaWNndHVoNnI5MXFoeTZrN29pajV0MWdvOThhc2xlamt3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/129P2fIHBVzby0/giphy.gif" width="170" alt="Team player" />    
       <br />
       <sub><b>Team player</b></sub>
     </td>
@@ -57,7 +57,7 @@ International experience across Europe, Asia, Australia, the Americas, and a cul
       <sub><b>Kindness is a superpower</b></sub>
     </td>
     <td align="center" valign="top">
-      <img src="./assets/card-humancentric.png" width="170" alt="Human-centred" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGNxOGcydGdjdG9nOG9oN3RpcTB4M2d3bGdkNnMzMHFoOXFla3N3diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WmWdmeFRWyr0MD4oQ8/giphy.gif" width="170" alt="Human-centred" />
       <br />
       <sub><b>Human-centred</b></sub>
     </td>
