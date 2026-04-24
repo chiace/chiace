@@ -13,9 +13,7 @@
 
 ## About me
 
-I partner with product and engineering to take work from research through to shipped UI, with systems thinking and inclusion baked in.
-
-End-to-end User Experience Designer blending data and creativity to craft intuitive, user-centred digital experiences.
+I partner with product and engineering, blending research, data, and craft to go from insight to shipped, user-centred UI.
 
 Innovator and lifelong learner at heart.
 
