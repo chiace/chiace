@@ -92,6 +92,27 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, di
 
 <br />
 
+## Featured work
+
+<p>
+  A small selection of repos where I experiment with product thinking, UX for complex systems, and shipping.
+</p>
+
+<p align="center">
+  <a href="https://github.com/chiace/st-au">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiace&repo=st-au" alt="st-au" />
+  </a>
+  <a href="https://github.com/chiace/msb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiace&repo=msb" alt="msb" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chiace/aboriginal-academy-assets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiace&repo=aboriginal-academy-assets" alt="aboriginal-academy-assets" />
+  </a>
+</p>
+
 ## What I'm working on
 
 - Designing AI-powered and accessible product experiences
