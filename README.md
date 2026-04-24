@@ -62,7 +62,7 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
       <sub><b>Human-centred</b></sub>
     </td>
     <td align="center" valign="top">
-      <img src="./assets/card-consistency.png" width="170" alt="Sprints are fine; consistency wins" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms3Z2Y1cm5seDEwODNwMnFjOHZtaDBtb3N2azdlcDh1Z3d0bXRiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6KoZJly4uLqMg/giphy.gif" width="170" alt="Sprints are fine; consistency wins" />
       <br />
       <sub><b>Sprints are fine; consistency wins</b></sub>
     </td>
