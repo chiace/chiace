@@ -15,8 +15,6 @@
   <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-a11y%2FWCAG-B2F0E3?style=flat&labelColor=D1FAE5" />
 </p>
 
-<br />
-
 ## About me
 
 End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, and cultural education.
