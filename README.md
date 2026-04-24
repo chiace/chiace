@@ -44,12 +44,30 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 
 ## My approach to the project
 
-<p align="center">
-  <img src="./assets/card-teamplayer.png" width="170" alt="Team player" />
-  <img src="./assets/card-kindness.png" width="170" alt="Kindness is a superpower" />
-  <img src="./assets/card-humancentric.png" width="170" alt="Human-centred" />
-  <img src="./assets/card-consistency.png" width="170" alt="Sprints are fine; consistency wins" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="./assets/card-teamplayer.png" width="170" alt="Team player" />
+      <br />
+      <sub><b>Team player</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="./assets/card-kindness.png" width="170" alt="Kindness is a superpower" />
+      <br />
+      <sub><b>Kindness is a superpower</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="./assets/card-humancentric.png" width="170" alt="Human-centred" />
+      <br />
+      <sub><b>Human-centred</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="./assets/card-consistency.png" width="170" alt="Sprints are fine; consistency wins" />
+      <br />
+      <sub><b>Sprints are fine; consistency wins</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## Skills
 
