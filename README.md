@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Chiara 👋</h1>
+<h1 align="center">Nice to meet you, I'm Chiara 👋</h1>
 
 <p align="center">
   <b>UX/UI Designer</b> · Interaction Designer · AI Product Designer
@@ -13,12 +13,9 @@
 
 ## About me
 
-End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, and cultural education.
+I partner with product and engineering to take work from research through to shipped UI, with systems thinking and inclusion baked in.
 
-- **I do**: 0→1 product design (research → strategy → UI)
-- **I’m strong in**: prototyping · design systems · accessibility (WCAG) · UX for AI
 - **Team player**: collaborative, clear, and kind. I love working with cross-functional teams
-- **Community**: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
 
 ## Career snapshot
 
@@ -39,9 +36,9 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 
 ## Background
 
-End-to-end User Experience Designer @ **Kazacos.ai** with R&amp;D and product UX across ISO 9241-210 research, design systems, AI/climate and instrument/analytics settings, and W3C Invited Expert work on accessibility (APA).  
+End-to-end User Experience Designer @ **Kazacos.ai** with R&amp;D and product UX across ISO 9241-210 research, design systems, and product contexts (AI, climate, instrument/analytics, hardware and software).  
 
-International experience across Europe, Asia, Australia, the Americas, and a cultural initiative in Africa, from large-scale usability testing and high-fidelity prototyping to delivery with accessibility and systems thinking.
+International experience across Europe, Asia, Australia, the Americas, and a cultural initiative in Africa: usability testing, high-fidelity prototyping, and delivery with accessibility and systems thinking.
 
 ## My approach to the project
 
