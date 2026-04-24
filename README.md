@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chiara 👋</h1>
+<h1 align="center">Nice to meet you, I'm Chiara 👋</h1>
 
 <p align="center">
   UX/UI Designer / Interaction Designer / AI Product Designer
