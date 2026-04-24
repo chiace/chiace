@@ -38,6 +38,7 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 - **I’m strong in**: prototyping · design systems · accessibility (WCAG) · UX for AI
 - **Team player**: collaborative, clear, and kind — I love working with cross-functional teams
 - **Kindness is a super power**
+- **Human-centric**
 - **Community**: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
 
 ## My approach to the project
