@@ -34,6 +34,13 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 - **I’m strong in**: prototyping · design systems · accessibility (WCAG) · UX for AI
 - **Community**: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
 
+## My approach to the project
+
+- **Align**: clarify goals, constraints, success metrics, and stakeholders
+- **Understand**: research, map flows, and define priorities
+- **Design**: iterate fast (lo-fi → hi-fi) with a scalable system
+- **Validate**: test early, improve accessibility, and ship with confidence
+
 ## Skills
 
 - **UX research**: interviews & synthesis · usability testing (mod/unmod) · workshops · ISO 9241-210 aligned practice
