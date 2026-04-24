@@ -24,9 +24,6 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 - **I do**: 0→1 product design (research → strategy → UI)
 - **I’m strong in**: prototyping · design systems · accessibility (WCAG) · UX for AI
 - **Team player**: collaborative, clear, and kind — I love working with cross-functional teams
-- **Kindness is a superpower.**
-- **Human-centred.**
-- **Sprints are fine; consistency wins.**
 - **Community**: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
 
 ## My approach to the project
@@ -39,7 +36,7 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
       <sub><b>Team player</b></sub>
     </td>
     <td align="center" valign="top">
-      <img src="./assets/card-kindness.png" width="170" alt="Kindness is a superpower" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanA2NG1scmZhbnA5emM4NWVpY3E3YTJ1MWpteGl1dnlqemR4YTg3aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/9FXESPgQvtImnxGkCy/giphy.gif" width="170" alt="Kindness is a superpower" />
       <br />
       <sub><b>Kindness is a superpower</b></sub>
     </td>
