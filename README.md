@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img alt="Location" src="https://img.shields.io/badge/Sydney-AU-FACC15?style=flat&labelColor=111827" />
-  <img alt="Focus" src="https://img.shields.io/badge/0%E2%86%921%20products-FBBF24?style=flat&labelColor=111827" />
-  <img alt="AI UX" src="https://img.shields.io/badge/AI%20UX-F59E0B?style=flat&labelColor=111827" />
-  <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-FDE047?style=flat&labelColor=111827" />
+  <img alt="Location" src="https://img.shields.io/badge/Location-Sydney%20%C2%B7%20AU-FFE4A0?style=flat&labelColor=FEF3C7" />
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-0%E2%86%921%20products-7DD3FC?style=flat&labelColor=DCEEFC" />
+  <img alt="AI UX" src="https://img.shields.io/badge/AI%20UX-UX%2FProduct-D7C3FF?style=flat&labelColor=E9E0FF" />
+  <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-a11y%2FWCAG-B2F0E3?style=flat&labelColor=D1FAE5" />
 </p>
 
 <br />
