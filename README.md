@@ -44,10 +44,12 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 
 ## My approach to the project
 
-- **Align**: clarify goals, constraints, success metrics, and stakeholders
-- **Understand**: research, map flows, and define priorities
-- **Design**: iterate fast (lo-fi → hi-fi) with a scalable system
-- **Validate**: test early, improve accessibility, and ship with confidence
+<p align="center">
+  <img src="./assets/card-teamplayer.png" width="170" alt="Team player" />
+  <img src="./assets/card-kindness.png" width="170" alt="Kindness is a superpower" />
+  <img src="./assets/card-humancentric.png" width="170" alt="Human-centred" />
+  <img src="./assets/card-consistency.png" width="170" alt="Sprints are fine; consistency wins" />
+</p>
 
 ## Skills
 
