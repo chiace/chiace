@@ -19,6 +19,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/sky.gif.png" alt="Sky animation" width="260" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/chiaracerretti/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://www.chiace.me/">Website</a>
@@ -32,6 +36,7 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 
 - **I do**: 0→1 product design (research → strategy → UI)
 - **I’m strong in**: prototyping · design systems · accessibility (WCAG) · UX for AI
+- **Team player**: collaborative, clear, and kind — I love working with cross-functional teams
 - **Community**: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
 
 ## My approach to the project
