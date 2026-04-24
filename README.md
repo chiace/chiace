@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/sky.gif.png" alt="Sky animation" width="260" />
+  <img src="./assets/sky.gif" alt="Sky animation" width="260" />
 </p>
 
 <p align="center">
@@ -37,9 +37,9 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
 - **I do**: 0→1 product design (research → strategy → UI)
 - **I’m strong in**: prototyping · design systems · accessibility (WCAG) · UX for AI
 - **Team player**: collaborative, clear, and kind — I love working with cross-functional teams
-- **Kindness is a super power**
-- **Human-centric**
-- **Sprints are fine, consistency wins**
+- **Kindness is a superpower.**
+- **Human-centred.**
+- **Sprints are fine; consistency wins.**
 - **Community**: IxDF Sydney Local Leader · W3C Invited Expert (a11y)
 
 ## My approach to the project
