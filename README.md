@@ -37,19 +37,23 @@
 
 ## Design & Tech Stack
 
-**UX / Research**: User interviews, usability testing, workshops, journey mapping, information architecture, service design  
-**UI / Product Design**: Figma, FigJam, design systems, wireframes, prototypes, responsive interfaces  
-**Accessibility**: WCAG, inclusive design, W3C accessibility review, accessible product thinking  
-**Frontend**: HTML, CSS, WordPress, basic JavaScript, React basics  
-**AI / Product**: AI prototyping, prompt design, UX for AI systems, human-AI interaction  
-**Creative / Visual**: Adobe Creative Suite, Framer, storytelling, content design  
+**UX Research**: Interview planning & synthesis, usability testing (moderated/unmoderated), workshop facilitation, insight-to-recommendation reports, ISO 9241-210 aligned practice  
+**UX Methods**: Journey mapping, information architecture, service flows, concept validation, evaluation frameworks  
+**UI / Product Design**: Wireframes → high-fidelity prototypes, responsive UI, design systems (scalable components & patterns), handoff-ready specs  
+**Accessibility**: WCAG-informed design, inclusive design reviews, accessibility-first product thinking, W3C a11y review involvement  
+**AI + Emerging Tech**: UX for AI systems, human–AI interaction, prompt/prototype experiments, AI-assisted ideation & evaluation workflows  
+**Physical + Digital Prototyping**: AR/interactive prototyping, hardware/experience prototyping (as needed)  
+**Frontend (basic)**: HTML/CSS, WordPress, basic JavaScript, React basics  
+**Data / Visualisation (basic)**: RAWGraphs (quick exploratory visuals)
 
 ## Tools
 
-**Design**: Figma, FigJam, Adobe Creative Suite, Framer  
-**Project / Collaboration**: Notion, Miro, Google Workspace, Trello, Jira  
+**Design**: Figma, FigJam, Adobe Creative Suite, Framer, ProtoPie  
+**Workshops / Collaboration**: Miro, Notion, Google Workspace, Jira, Trello  
+**Prototyping / Build**: Unity 3D, Rhino, Arduino (as needed)  
+**API / Documentation**: Swagger  
 **Development / Handoff**: GitHub, WordPress, HTML, CSS  
-**AI Coding / Prototyping**: ChatGPT, GitHub Copilot, Cursor, Claude  
+**AI Prototyping**: ChatGPT, Cursor, Claude, GitHub Copilot  
 
 ---
 
