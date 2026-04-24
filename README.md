@@ -43,6 +43,12 @@ End-to-end UX/UI designer working across AI, EdTech, robotics, accessibility, an
   </tr>
 </table>
 
+## Background
+
+End-to-end User Experience Designer @ **Kazocos.ai** — R&amp;D and product UX across ISO 9241-210 research, design systems, AI/climate and instrument/analytics settings, and W3C Invited Expert work on accessibility (APA).  
+
+International experience across Europe, Asia, Australia, the Americas, and a cultural initiative in Africa — from large-scale usability testing and high-fidelity prototyping to delivery with accessibility and systems thinking.
+
 ## My approach to the project
 
 <table align="center">
