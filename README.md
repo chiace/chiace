@@ -38,7 +38,7 @@ Innovator and lifelong learner at heart.
 
 ## Background
 
-End-to-end User Experience Designer @ **Kazacos.ai** with R&amp;D and product UX across ISO 9241-210 research, design systems, and product contexts (AI, climate, instrument/analytics, hardware and software).  
+End-to-end User Experience Designer @ **KazGard** with R&amp;D and product UX across ISO 9241-210 research, design systems, and product contexts (AI, climate, instrument/analytics, hardware and software).  
 
 International experience across Europe, Asia, Australia, the Americas, and a cultural initiative in Africa: usability testing, high-fidelity prototyping, and delivery with accessibility and systems thinking.
 
