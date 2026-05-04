@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you, I'm Chiara 👋</h1>
 
 <p align="center">
-  <b>UX/UI Designer</b> · Interaction Designer · AI Product Designer
+  <b>UI/UX Designer</b> · Interaction Designer · AI Product Designer
 </p>
 
 <p align="center">
